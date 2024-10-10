@@ -14,5 +14,5 @@ This app fetches news articles from an API, displays them in a clean UI, and all
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/news_reader_app.git
+   git clone https://github.com/rdinesh19/news_reader.git
    cd news_reader_app
